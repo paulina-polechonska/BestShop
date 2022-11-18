@@ -11,6 +11,8 @@
     --color-grey: #A5A5A5;
     --color-light-grey: #F7F7F7;
     --color-white: #FFFFFF;
+    --font-primary: 'Open Sans', sans-serif;
+    --font-secondary: 'Raleway', sans-serif;
 }
 
 html {
@@ -22,7 +24,7 @@ html {
     width: 1352px;
     margin: 0 auto;
 }
-/* header begin */
+/* header start */
 
 header {
     height: 70px;
@@ -40,7 +42,7 @@ header .container {
 .logo {
     font-size: 32px;
     line-height: 37px;
-    font-family: 'Raleway', sans-serif;
+    font-family: var(--font-secondary);
     font-weight: 300;
     color: var(--color-primary);
 }
@@ -55,7 +57,7 @@ header .container {
 .menu a {
     text-decoration: none;
     text-transform: uppercase;
-    font-family: 'Open Sans', sans-serif;
+    font-family: var(--font-primary);
     font-size: 11px;
     font-weight: bold;
     line-height: 15px;
@@ -69,3 +71,65 @@ header .container {
     padding-bottom: calc(27px - 4px);
 }
 /* header end */
+
+/* BUTTONS START */
+
+.button {
+    font-family: var(--font-primary);
+    color: var(--color-white);
+    text-decoration: none;
+}
+
+.button_green {
+    background-color: var(--color-green);
+}
+
+.button_redish {
+    background-color: var(--color-redish);
+}
+
+.button_blue {
+    background-color: var(--color-primary);
+}
+
+/* BUTTONS END */
+
+/* OPEN START */
+
+.banner .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container .banner_title {
+    margin-top: 130px;
+    font-size: 49px;
+    line-height: 57px;
+    font-family: var(--font-secondary);
+    color: var(--color-black);
+}
+
+.banner .container p {
+    font-size: 16px;
+    line-height: 22px;
+    font-family: var(--font-primary);
+    color: var(--color-black);
+    padding: 20px 0 38px 0;
+}
+
+.banner_button {
+    box-shadow: 5px 10px 14px #07ACE629;
+    border-radius: 40px;
+    padding: 22px 157px 23px 157px;
+}
+
+.banner_image {
+    width: 100%;
+    height: auto;
+    bottom: 0;
+}
+
+/* OPEN END */
+
+
