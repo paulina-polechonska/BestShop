@@ -18,7 +18,7 @@
             <div class="logo">
                 <span>BestShop</span>
             </div>
-            <nav class="menu">
+            <nav class="menu uppercase__style">
                 <ul>
                     <li><a href='#whyus'>why us</a></li>
                     <li><a href='#benefits'>benefits</a></li>
@@ -31,11 +31,50 @@
 
     <section class="banner">
         <div class="container">
-            <h1 class="banner_title">Sell More!</h1>
-            <p>Open shop on our platform and increase your sales</p>
+            <h1 class="title banner_title">Sell More!</h1>
+            <p class="main__text banner_text">Open shop on our platform and increase your sales</p>
             <a href="#" class="button button_blue banner_button">Open your shop</a>
         </div>
         <img src="assets/Background.png" alt="" class="banner_image"/>
+    </section>
+
+    <section class="contact">
+        <div class="container">
+            <div class="contact__questions">
+                <h1 class="title contact__questions__title">Any questions?</h1>
+                <p class="main__text">Leave your email address or call us!</p>
+
+                <div class="contact__questions__details main__text">
+                    <a href="" class="contact__questions__details__item">
+                        <img src="assets/Mail%20Icon.svg" alt="mail" /> info@bestshop.xyz
+                    </a>
+                    <a href="" class="contact__questions__details__item main__text">
+                        <img src="assets/Phone%20Icon.svg" alt="phone" /> 123456789
+                    </a>
+                </div>
+
+            </div>
+            <form class="contact__form">
+                <label for="name" class="uppercase__style contact__form__label">name</label>
+                <input id="name" type="text" class="contact__form__input">
+                <label for="email" class="uppercase__style contact__form__label">email</label>
+                <input id="email" type="email" class="contact__form__input">
+
+                <label class="contact__form__chbx">
+                    <input type="checkbox">
+                    <span></span>
+                    <span class="contact__form__text">
+                        I hereby give consent for my personal data included in my application to be processed for the
+                        purposes of the recruitment process under the European Parliament’s and Council of the European
+                        Union Regulation on the Protection of Natural Persons as of 27 April 2016, with regard to the
+                        processing of personal data and on the free movement of such data, and repealing Directive
+                        95/46/EC (Data Protection Directive)
+                    </span>
+                </label>
+                <button class="button button_blue button__form" type="submit">Send</button>
+            </form>
+
+        </div>
     </section>
 
     <footer class="footer">
@@ -47,12 +86,12 @@
                 <p class="footer_copy">© 2019 BestShop LTD, All Rights Reserved</p>
             </div>
             <div class="footer_icons">
-                <div class="footer__icon">
+                <div class="footer_icons_icon">
                     <a href="https://twitter.com/" target="_blank" title="Go to Twitter">
                         <img src="assets/Twitter.svg" alt="Twitter icon" />
                     </a>
                 </div>
-                <div class="footer__icon">
+                <div class="footer_icons_icon">
                     <a href="https://www.facebook.com/" target="_blank" title="Go to Facebook">
                         <img src="assets/Facebook.svg" alt="Facebook icon" />
                     </a>

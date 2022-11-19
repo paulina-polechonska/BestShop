@@ -19,13 +19,30 @@ html {
     scroll-behavior: smooth;
 }
 
+/* UTILITIES BEGIN */
 
 .container {
     width: 1352px;
     margin: 0 auto;
 }
 
-/* header start */
+.uppercase__style {
+    text-transform: uppercase;
+    font-family: var(--font-primary);
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 15px;
+    letter-spacing: 3.28px;
+}
+
+.main__text {
+    font-size: 16px;
+    line-height: 22px;
+    font-family: var(--font-primary);
+    color: var(--color-black);
+}
+
+/* UTILITIES END */
 
 header {
     height: 70px;
@@ -38,6 +55,13 @@ header {
 header .container {
     display: flex;
     justify-content: space-between;
+}
+
+.title {
+    font-size: 49px;
+    line-height: 57px;
+    font-family: var(--font-secondary);
+    color: var(--color-black);
 }
 
 /* LOGO */
@@ -58,12 +82,6 @@ header .container {
 
 .menu a {
     text-decoration: none;
-    text-transform: uppercase;
-    font-family: var(--font-primary);
-    font-size: 11px;
-    font-weight: bold;
-    line-height: 15px;
-    letter-spacing: 3.28px;
     color: var(--color-grey);
 }
 
@@ -79,7 +97,9 @@ header .container {
 .button {
     font-family: var(--font-primary);
     color: var(--color-white);
+    font-weight: bold;
     text-decoration: none;
+    border: none;
 }
 
 .button_green {
@@ -104,19 +124,11 @@ header .container {
     align-items: center;
 }
 
-.container .banner_title {
+.banner_title {
     margin-top: 130px;
-    font-size: 49px;
-    line-height: 57px;
-    font-family: var(--font-secondary);
-    color: var(--color-black);
 }
 
-.banner .container p {
-    font-size: 16px;
-    line-height: 22px;
-    font-family: var(--font-primary);
-    color: var(--color-black);
+.banner_text {
     padding: 20px 0 38px 0;
 }
 
@@ -134,6 +146,109 @@ header .container {
 
 /* OPEN END */
 
+
+/* CONTACT START */
+
+.contact .container {
+    width: 896px;
+    display: flex;
+    padding: 155px 0 59px 0;
+
+}
+
+.contact__form, .contact__questions {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 50%;
+}
+
+.contact__questions p {
+    padding: 22px 0 42px 0;
+}
+
+.contact__questions__details {
+    display: flex;
+    gap: 20px;
+}
+
+.contact__questions__details__item {
+    display: flex;
+    gap: 10px;
+    text-decoration: none;
+    color: var(--color-grey);
+}
+
+.contact__questions__details__item img {
+    width: 27px;
+    height: 27px;
+}
+
+.contact__form__label {
+    color: var(--color-primary);
+}
+
+.contact__form__input {
+    border: none;
+    width: 100%;
+    border-bottom: 1px solid var(--color-grey);
+    line-height: 42px;
+}
+
+.contact__form input:first-of-type {
+    margin-bottom: 42px;
+}
+
+
+/* stylowanie niestandardowego chbxa start*/
+
+.contact__form__chbx input {
+    position: absolute;
+    opacity: 0;
+    height: 0;
+    width: 0;
+}
+
+.contact__form__chbx {
+    display: flex;
+}
+
+.contact__form__chbx span:first-of-type {
+    height: 24px;
+    flex-basis: 24px;
+    flex-shrink: 0;
+    border: 1px solid var(--color-grey);
+    border-radius: 4px;
+}
+
+.contact__form__chbx input:checked + span {
+    background-image: url("../assets/checkmark.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* stylowanie niestandardowego chbxa end */
+
+
+.contact__form__text {
+    color: #707070;
+    font-size: 12px;
+    line-height: 17px;
+    font-family: var(--font-primary);
+    padding-left: 10px;
+}
+
+.contact__form__chbx {
+    padding: 30px 0 20px;
+}
+
+.button__form {
+    padding: 20px 97px;
+    border-radius: 35px;
+    align-self: flex-end;
+}
+
+/* CONTACT END */
 
 /* FOOTER START */
 
@@ -167,9 +282,11 @@ header .container {
     padding: 35px 0 30px 0;
 }
 
-.footer__icon {
+.footer_icons_icon {
     width: 24px;
     height: 24px;
+    font-size: 13px;
+    line-height: 18px;
 }
 
 
