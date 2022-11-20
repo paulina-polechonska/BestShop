@@ -146,6 +146,109 @@ header .container {
 
 /* OPEN END */
 
+/*STATISTICS START */
+
+.statistics .container {
+    display: flex;
+    align-items: center ;
+    flex-direction: column;
+}
+
+h2 {
+    font-family: var(--font-secondary);
+    font-size: 36px;
+    line-height: 42px;
+    color: var(--color-black);
+}
+
+.container h2 {
+    padding: 100px 0;
+}
+
+.statistics__boxes {
+    display: flex;
+    gap: 230px;
+}
+
+.statistics__boxes__single{
+    width: 116px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.statistics__circle {
+    border-radius: 50%;
+    width: 63px;
+    height: 63px;
+    position: absolute;
+    padding-bottom: 14px;
+}
+.person {
+    background-color: var(--color-redish);
+}
+
+.person::before {
+    content: "";
+    background-image: url("../assets/Person.svg");
+    height: 52px;
+    width: 44px;
+    position: absolute;
+    right: -10px;
+}
+
+.eye {
+    background-color: var(--color-primary);
+}
+
+.eye::before {
+    content: "";
+    background-image: url("../assets/Eye.svg");
+    background-repeat: no-repeat;
+    height: 36.5px;
+    width: 66px;
+    position: absolute;
+    right: -25px;
+    top: 15px;
+}
+
+.folder {
+    background-color: var(--color-green);
+}
+
+.folder::before {
+    content: "";
+    background-image: url("../assets/Catalog.svg");
+    background-repeat: no-repeat;
+    height: 48px;
+    width: 52px;
+    position: absolute;
+    right: -18px;
+    top: 7px;
+}
+
+.statistics__number {
+    margin-top: 77px;
+    font-family: var(--font-secondary);
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 800;
+    letter-spacing: 5.96px;
+}
+
+.statistics__descripcion {
+    font-size: 17px;
+    line-height: 20px;
+    font-family: var(--font-secondary);
+    color: var(--color-grey);
+    padding: 19px 0 121px 0;
+    text-align: center;
+}
+/* STATISTICS END */
+
+
+
+
 
 /* CONTACT START */
 
@@ -160,7 +263,7 @@ header .container {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    width: 50%;
+    flex-basis: 50%;
 }
 
 .contact__questions p {
@@ -272,6 +375,7 @@ header .container {
 
 .footer_copy {
     font-size: 11px;
+    font-family: var(--font-primary);
     line-height: 15px;
     color: var(--color-grey);
 }
