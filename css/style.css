@@ -44,6 +44,8 @@ html {
 
 /* UTILITIES END */
 
+/* HEADER START ----------------------------------------------------------------------------------------------------*/
+
 header {
     height: 70px;
     width: 100%;
@@ -90,9 +92,9 @@ header .container {
     border-bottom: 4px solid var(--color-primary);
     padding-bottom: calc(27px - 4px);
 }
-/* header end */
+/* HEADER END ------------------------------------------------------------------------------------------------------*/
 
-/* BUTTONS START */
+/* BUTTONS START ---------------------------------------------------------------------------------------------------*/
 
 .button {
     font-family: var(--font-primary);
@@ -114,9 +116,9 @@ header .container {
     background-color: var(--color-primary);
 }
 
-/* BUTTONS END */
+/* BUTTONS END ----------------------------------------------------------------------------------------------------*/
 
-/* OPEN START */
+/* OPEN SECTION START ---------------------------------------------------------------------------------------------*/
 
 .banner .container {
     display: flex;
@@ -144,9 +146,9 @@ header .container {
     bottom: 0;
 }
 
-/* OPEN END */
+/* OPEN SECTION END ---------------------------------------------------------------------------------------------*/
 
-/*STATISTICS START */
+/*STATISTICS START ----------------------------------------------------------------------------------------------*/
 
 .statistics .container {
     display: flex;
@@ -244,9 +246,9 @@ h2 {
     padding: 19px 0 121px 0;
     text-align: center;
 }
-/* STATISTICS END */
+/* STATISTICS END ---------------------------------------------------------------------------------------------*/
 
-/* BENEFITS START */
+/* BENEFITS START ---------------------------------------------------------------------------------------------*/
 
 .benefits {
     background-color: var(--color-light-grey);
@@ -294,7 +296,7 @@ h2 {
 }
 
 
-/* BENEFITS - NOTEBOOK */
+/* BENEFITS - NOTEBOOK ---------------------------------------------------------------------------------------------*/
 
 .benefits__box__notebook {
     --box-color: var(--color-redish);
@@ -319,7 +321,7 @@ h2 {
     right: 110px;
 }
 
-/* BENEFITS PHONE */
+/* BENEFITS PHONE ---------------------------------------------------------------------------------------------*/
 
 .benefits__box__phone {
     --box-color: var(--color-primary);
@@ -348,7 +350,7 @@ h2 {
     left: 0;
     top: -20px;
 }
-/* BENEFITS TRUMPET */
+/* BENEFITS TRUMPET ------------------------------------------------------------------------------------------------*/
 
 .benefits__box__trumpet {
     --box-color: var(--color-green);
@@ -381,16 +383,126 @@ h2 {
     background-color: var(--box-color);
 
 }
+/* BENEFITS END ----------------------------------------------------------------------------------------------*/
+
+
+/* PRICING START ---------------------------------------------------------------------------------------------*/
+
+.pricing {
+    margin: 100px auto;
+}
+
+.pricing .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.pricing__boxes {
+    margin-top:70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pricing__box {
+    width: 372px;
+    border: 1px solid var(--pricing-box-color);
+    border-radius: 18px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pricing__box__details {
+    margin: 34px 0 61px 0;
+    text-align: center;
+}
+
+.pricing__box__type {
+    font-size: 20px;
+    font-family: var(--font-secondary);
+    font-weight: 700;
+    color: var(--color-black);
+    margin-bottom: 25px;
+}
+
+.pricing__box__price {
+    font-size: 46px;
+    font-family: var(--font-primary);
+    font-weight: 300;
+    color: var(--pricing-box-color);
+}
+
+.pricing__box__limited {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 12px;
+    font-family: var(--font-secondary);
+    font-weight: bold;
+}
+
+.pricing__box__items {
+    text-align: center;
+    font-family: var(--font-primary);
+}
+
+.pricing__box__item {
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.pricing__box__item::before {
+    content: "";
+    width: 11px;
+    height: 11px;
+    background-image: url("../assets/Ckechmark-1.svg");
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.pricing__box__item__x::before {
+    background-image: url("../assets/Close.svg");
+}
+
+
+.pricing__button {
+    position: relative;
+    bottom: -25px;
+    font-size: 13px;
+    background-color: var(--pricing-box-color);
+    padding: 16px 57px;
+    border-radius: 23px;
+}
+
+.pricing__box__basic {
+    --pricing-box-color: var(--color-redish);
+}
+.pricing__box__basic .pricing__box__price {
+    margin-bottom: 30px;
+}
+
+.pricing__box__premium {
+    --pricing-box-color: var(--color-green);
+}
+
+.pricing__box__professional {
+    --pricing-box-color: var(--color-primary);
+    transform: scale(1.1);
+    margin: 0 60px 0 60px;
+}
+
+/* PRICING END ---------------------------------------------------------------------------------------------*/
 
 
 
-
-/* CONTACT START */
+/* CONTACT START ---------------------------------------------------------------------------------------------*/
 
 .contact .container {
     width: 896px;
     display: flex;
-    padding: 155px 0 59px 0;
+    padding: 100px 0 55px 0;
 
 }
 
