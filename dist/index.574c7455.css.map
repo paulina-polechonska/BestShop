@@ -1,1 +1,1 @@
-{"mappings":"","sources":["scss/main.scss"],"sourcesContent":[null],"names":[],"version":3,"file":"index.574c7455.css.map","sourceRoot":"/__parcel_source_root/"}
+{"mappings":"ACAA;;;;AAIA;;;;;;;;;;;;AAYA;;;;AAIA;;;;AAIA;;;;AAIA;;;;AAIA;;;;;AAKA;;;;;AAKA;;;;;ACxCA;;;;AAIA;;;;AAIA","sources":["scss/main.scss","scss/_reset.scss","scss/global.scss"],"sourcesContent":["@import \"reset\";\r\n@import \"variables/colors\";\r\n@import \"variables/fonts\";\r\n@import \"global\";",null,null],"names":[],"version":3,"file":"index.574c7455.css.map","sourceRoot":"/__parcel_source_root/"}
