@@ -1,0 +1,52 @@
+.banner {
+  margin-top: 130px;
+
+  @include mobile {
+    margin-top: 100px;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  &_title {
+    font-size: calc(2.5 * $base-size);
+    line-height: 57px;
+    font-family: $font-secondary;
+  }
+
+  &_text {
+    padding-top: $base-size;
+    padding-bottom: calc(2 * $base-size);
+    text-align: center;
+
+    @include mobile {
+      padding-left: calc(4 * $base-size);
+      padding-right: calc(4 * $base-size);
+    }
+  }
+
+  .button {
+    box-shadow: 5px 10px 15px #07ACE629;
+
+    @include mobile {
+      display: block;
+      padding: 20px 90px;
+    }
+
+  }
+
+  &_image {
+    width: 100%;
+    height: auto;
+    bottom: 0;
+
+    @include mobile {
+      width: 220%;
+      transform: translateX(-27%);
+    }
+  }
+}
+
