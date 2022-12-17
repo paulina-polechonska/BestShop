@@ -1,0 +1,102 @@
+.statistics {
+  font-family: $font-secondary;
+  margin-top: 100px;
+  text-align: center;
+
+  @include mobile {
+    margin-top: 50px;
+  }
+
+  .container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  h2 {
+    font-size: calc(1.75 * $base-size);
+    line-height: calc(2 * $base-size);
+    padding-bottom: 100px;
+
+    @include mobile {
+      padding-bottom: 25px;
+    }
+
+  }
+
+  &__boxes {
+    display: flex;
+    gap: 230px;
+
+    @include mobile {
+      flex-direction: column;
+      gap: 25px;
+    }
+
+    &__single{
+      width: 116px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+
+  &__circle {
+    border-radius: 50%;
+    width: 63px;
+    height: 63px;
+    position: absolute;
+    padding-bottom: 15px;
+  }
+
+  .person {
+    @include statistics__icon($color-redish) {
+      background-image: url("../assets/Person.svg");
+      height: 52px;
+      width: 44px;
+      right: -10px;
+    }
+
+  }
+
+  .eye {
+    @include statistics__icon($color-primary) {
+      background-image: url("../assets/Eye.svg");
+      height: 36.5px;
+      width: 66px;
+      right: -25px;
+      top: 15px;
+    }
+  }
+
+  .folder {
+    @include statistics__icon($color-green) {
+      background-image: url("../assets/Catalog.svg");
+      height: 48px;
+      width: 52px;
+      right: -18px;
+      top: 7px;
+    }
+  }
+
+  &__number {
+    margin-top: calc(3.5 * $base-size);
+    font-size: $base-size;
+    line-height: 24px;
+    font-weight: 800;
+    letter-spacing: 5.96px;
+  }
+
+  &__descripcion {
+    font-size: calc(0.85 * $base-size);
+    line-height: $base-size;
+    padding: 19px 0 121px 0;
+
+    @include mobile {
+      padding: 20px 0 25px 0;
+    }
+  }
+}
+
+
+

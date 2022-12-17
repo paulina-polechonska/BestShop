@@ -1,4 +1,4 @@
-4384
+4388
 92C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\css-what\lib\es\parse.d.ts133156098191300020 0
 112C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\caniuse-lite\data\features\link-rel-preload.js133156098212849917 0
 143C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\browser.js133156098190940999 0
@@ -6,7 +6,7 @@
 104C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\caniuse-lite\data\features\temporal.js133156098219030507 0
 103C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\transformer-babel\lib\flow.js133156098190432345 0
 124C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate.js133156098213285280 0
-58C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\.idea133157532049641476 1
+58C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\.idea133157645530483466 1
 103C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\caniuse-lite\data\features\ch-unit.js133156098200914359 0
 59C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\assets133156094461659498 1
 89C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\braces\lib\constants.js133156098183826843 0
@@ -46,11 +46,11 @@
 91C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\chokidar\lib\constants.js133156098180453223 0
 93C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\cosmiconfig\dist\index.d.ts133156098196831452 0
 74C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\svgo\lib133156098200405716 1
-57C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist133157532419158569 1
+57C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist133157647019562350 1
 96C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\css-what\lib\commonjs\types.js133156098185821421 0
 102C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\mdn-data\api\inheritance.schema.json133156098188916396 0
 74C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\chokidar133156098184804145 1
-80C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\scss\components\header.scss133157503574942537 0
+80C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\scss\components\header.scss133157647018154912 0
 94C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\svgo\plugins\inlineStyles.js133156098195255760 0
 74C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\posthtml133156098182530228 1
 78C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\yaml\browser133156098198058179 1
@@ -63,7 +63,7 @@
 82C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\lmdb\binding.gyp133156098201004189 0
 93C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\domelementtype\lib\index.js133156098181450557 0
 78C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\yaml\util.js133156098198227709 0
-68C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\scss\components133157532949051647 1
+68C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\scss\components133157647018168895 1
 112C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\transformer-postcss\lib\loadPlugins.js133156098189205651 0
 117C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@babel\highlight\node_modules\color-convert\LICENSE133156098182360673 0
 83C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\stable\index.d.ts133156098180253769 0
@@ -79,7 +79,7 @@
 94C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\yaml\browser\types\binary.js133156098180572899 0
 128C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.d.ts133156098189863862 0
 97C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\caniuse-lite\data\regions\AX.js133156098198127984 0
-57C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\scss133157516725938594 1
+57C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\scss133157591184536783 1
 96C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\htmlparser2\lib\FeedHandler.js133156098180463187 0
 88C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\detect-libc\.npmignore133156098180393396 0
 106C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\css-what\lib\commonjs\stringify.d.ts.map133156098189664408 0
@@ -91,10 +91,10 @@
 87C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\utility-types\LICENSE133156098179919161 0
 103C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\terser\lib\compress\native-objects.js133156098197848724 0
 93C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\mdn-data\css\selectors.json133156098190940999 0
-67C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\scss\main.scss133157502065367849 0
+67C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\scss\main.scss133157591184526809 0
 82C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\json5\LICENSE.md133156098188976259 0
 103C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\caniuse-lite\data\features\imports.js133156098211302607 0
-67C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\scss\variables133157522746145927 1
+67C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\scss\variables133157602706657259 1
 88C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\supports-color\license133156098179876274 0
 91C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\yaml\browser\parse-cst.js133156098191000832 0
 69C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\scss\_reset.scss133151520590000000 0
@@ -135,7 +135,7 @@
 87C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\utils\LICENSE133156098201961570 0
 78C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\browserslist133156098187430370 1
 92C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\core\src\worker.js133156098210614444 0
-79C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\scss\variables\mixins.scss133157036633640632 0
+79C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\scss\variables\mixins.scss133157602706657259 0
 102C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\caniuse-lite\data\features\canvas.js133156098200694964 0
 92C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\svgo\plugins\removeDesc.js133156098197788895 0
 104C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\term-size\vendor\windows\term-size.exe133156098182929158 0
@@ -147,9 +147,12 @@
 83C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\svgo\lib\types.ts133156098200425665 0
 91C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\codeframe\LICENSE133156098198018335 0
 104C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\type-fest\source\conditional-keys.d.ts133156098187157862 0
-81C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\scss\components\opening.scss133157532949041685 0
+81C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\scss\components\opening.scss133157627597871725 0
 108C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@jridgewell\gen-mapping\src\gen-mapping.ts133156098187088036 0
 84C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\chokidar\README.md133156098184494962 0
+100C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\cosmiconfig\dist\Explorer.d.ts.map133156098189075971 0
+112C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\caniuse-lite\data\features\css-mixblendmode.js133156098205455617 0
+84C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\scss\components\statistics.scss133157626048550946 0
 82C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\stable\stable.js133156098181420632 0
 78C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\caniuse-lite133156098222082328 1
 74C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\anymatch133156098181909338 1
@@ -340,7 +343,7 @@
 90C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\json5\dist\index.min.mjs133156098189794067 0
 101C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\utils\src\getModuleParts.js133156098203178319 0
 87C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\posthtml\lib\index.js133156098181041685 0
-77C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\iPhone.18df9ac3.png133157515973708346 0
+77C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\iPhone.18df9ac3.png133157616305574352 0
 95C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\type-fest\source\mutable.d.ts133156098191339924 0
 92C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\term-size\vendor\.DS_Store133156098179984465 0
 107C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\reporter-dev-server\src\templates133156098199897092 1
@@ -491,7 +494,7 @@
 80C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\node-gyp-build133156098183377957 1
 83C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\picomatch\LICENSE133156098179776534 0
 85C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\lmdb\src\writer.cpp133156098200754786 0
-81C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\Background.96fc9b9b.png133157515973768185 0
+81C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\Background.96fc9b9b.png133157616305614280 0
 88C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\svgo\lib\svgo\jsAPI.js133156098195445171 0
 98C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\node-gyp-build-optional-packages133156098183367974 1
 79C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\node-releases133156098195604728 1
@@ -678,7 +681,7 @@
 78C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\yaml\LICENSE133156098179826387 0
 85C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\buffer-from\LICENSE133156098179738472 0
 149C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob\src\test.js133156098200555342 0
-78C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\Trumpet.041da3b3.png133157515973698376 0
+78C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\Trumpet.041da3b3.png133157616305470853 0
 97C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\caniuse-lite\data\regions\KN.js133156098212431129 0
 93C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\sass\types\value\color.d.ts133156098199228884 0
 107C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\type-fest\source\require-exactly-one.d.ts133156098195644619 0
@@ -759,12 +762,12 @@
 111C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp133156098180223846 0
 104C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\svgo\plugins\convertEllipseToCircle.js133156098190482214 0
 84C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\yaml\types\omap.js133156098189664408 0
-121C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-mdb.txt133156098203911800 0
-90C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\sass\types\importer.d.ts133156098199577933 0
-95C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\msgpackr-extract\package.json133156098183358017 0
 84C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\timsort\LICENSE.md133156098182108799 0
 150C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false\src\index.js133156098198899756 0
 118C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\lmdb\node_modules\node-addon-api\tools\check-napi.js133156098188756822 0
+90C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\sass\types\importer.d.ts133156098199577933 0
+95C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\msgpackr-extract\package.json133156098183358017 0
+121C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-mdb.txt133156098203911800 0
 94C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\source-map\lib\quick-sort.js133156098186848682 0
 109C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\caniuse-lite\data\features\iframe-srcdoc.js133156098211113104 0
 85C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\type-fest\readme.md133156098181151445 0
@@ -1125,6 +1128,7 @@
 85C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\term-size\readme.md133156098188647118 0
 83C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\timsort\README.md133156098180882065 0
 87C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\base-x\src\index.d.ts133156098182360673 0
+78C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\Catalog.8507218e.svg133157616305480828 0
 96C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\nth-check\lib\esm\parse.js.map133156098190422455 0
 90C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\lmdb\src\compression.cpp133156098200186322 0
 121C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\transformer-js\parcel-swc.linux-arm64-musl.node133156098214632039 0
@@ -1264,7 +1268,6 @@
 91C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\csso\lib\replace\color.js133156098189873840 0
 90C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\transformer-json133156098187759521 1
 75C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\svgo\dist133156098199657729 1
-116C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\caniuse-lite\data\features\alternate-stylesheet.js133156098192383381 0
 113C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\caniuse-lite\data\features\fieldset-disabled.js133156098209268045 0
 80C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\svgo\README.md133156098200286060 0
 107C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\svgo\plugins\addAttributesToSVGElement.js133156098184714378 0
@@ -1607,7 +1610,7 @@
 123C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\dom-serializer\node_modules\entities\lib\maps\decode.json133156098183427815 0
 112C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb.c133156098198790040 0
 106C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\watcher\src\windows\win_utils.hh133156098195475089 0
-78C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\BestShop.3464ddca.js133157515973788144 0
+78C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\BestShop.3464ddca.js133157616305634236 0
 89C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\posthtml-parser\license133156098179826387 0
 91C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\posthtml-parser\readme.md133156098184026211 0
 135C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage\package.json133156098206213578 0
@@ -2252,7 +2255,7 @@
 122C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\030-config.md133156098198929684 0
 123C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\050-modules.md133156098199338632 0
 99C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\workers\src\childState.js133156098205415722 0
-68C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\index.html133157522106701825 0
+68C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\index.html133157616305470853 0
 97C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\caniuse-lite\data\regions\EE.js133156098208589857 0
 126C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\060-contribute.md133156098199488190 0
 126C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\060-contribute.md133156098199418379 0
@@ -2575,7 +2578,7 @@
 79C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\css-tree\dist133156098196821482 1
 153C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\a\index.js133156098198127984 0
 109C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133156098197579452 0
-78C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\Macbook.a1f4b436.png133157515973698376 0
+78C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\Macbook.a1f4b436.png133157616305530709 0
 99C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\css-tree\lib\syntax\pseudo\dir.js133156098197818848 0
 87C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\css-tree\package.json133156098203347851 0
 85C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\css-tree\lib\common133156098202739480 1
@@ -2724,8 +2727,6 @@
 97C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\caniuse-lite\data\regions\NA.js133156098214133022 0
 117C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map133156098192822221 0
 96C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\cosmiconfig\dist\Explorer.d.ts133156098195784382 0
-100C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\cosmiconfig\dist\Explorer.d.ts.map133156098189075971 0
-112C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\caniuse-lite\data\features\css-mixblendmode.js133156098205455617 0
 94C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\cosmiconfig\dist\Explorer.js133156098181031670 0
 98C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\cosmiconfig\dist\Explorer.js.map133156098189415072 0
 117C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\transformer-js\parcel-swc.darwin-arm64.node133156098205834603 0
@@ -2932,6 +2933,7 @@
 116C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@swc\helpers\lib\_class_apply_descriptor_update.js133156098189724236 0
 97C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\caniuse-lite\data\regions\ZW.js133156098222042440 0
 111C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\caniuse-lite\data\features\abortcontroller.js133156098181340854 0
+116C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\caniuse-lite\data\features\alternate-stylesheet.js133156098192383381 0
 109C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\caniuse-lite\data\features\ambient-light.js133156098194717113 0
 100C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@swc\helpers\src\_ts_generator.mjs133156098204657748 0
 109C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\workers\test\integration\workerfarm133156098206123826 1
@@ -3538,7 +3540,7 @@
 104C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@swc\helpers\src\_write_only_error.mjs133156098204927023 0
 95C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@swc\helpers\scripts\build.sh133156098200635108 0
 93C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@swc\helpers\scripts\gen.sh133156098200694964 0
-81C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\Phone Icon.b10af3a5.svg133157515973778165 0
+81C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\Phone Icon.b10af3a5.svg133157616305470853 0
 99C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@swc\helpers\scripts\generator.sh133156098200734842 0
 113C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js133156098209008744 0
 91C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@swc\helpers\lib\index.js133156098200585239 0
@@ -4018,7 +4020,7 @@
 138C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\index.js133156098197050866 0
 140C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\foo\bar.js133156098189016134 0
 142C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0133156098195036269 1
-80C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\index.574c7455.css.map133157532419148592 0
+80C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\index.574c7455.css.map133157647019542396 0
 167C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules\source-pnpm133156098200834585 1
 121C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\node-resolver-core\test\fixture\nested\index.js133156098196731716 0
 120C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\@parcel\node-resolver-core\test\fixture\nested\test.js133156098200445618 0
@@ -4364,11 +4366,13 @@
 81C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\.bin\semver.cmd133156098223939208 0
 75C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\.bin\svgo133156098223949175 0
 79C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\node_modules\.bin\svgo.ps1133156098223939208 0
-82C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\BestShop.3464ddca.js.map133157515973939802 0
-79C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\Facebook.389b15e8.svg133157515973778165 0
-76C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\index.574c7455.css133157532419108704 0
-80C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\Mail Icon.b0bc1804.svg133157515973897835 0
-78C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\Twitter.41e2b00a.svg133157515973897835 0
+82C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\BestShop.3464ddca.js.map133157616305734044 0
+74C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\Eye.e60e75e7.svg133157616305470853 0
+79C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\Facebook.389b15e8.svg133157616305470853 0
+76C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\index.574c7455.css133157647019512482 0
+80C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\Mail Icon.b0bc1804.svg133157616305684100 0
+77C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\Person.e8721018.svg133157616305470853 0
+78C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\dist\Twitter.41e2b00a.svg133157616305684100 0
 74C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\assets\Background.png133156094461519851 0
 71C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\assets\Catalog.svg133156094461529843 0
 75C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\assets\Checkmark-1.svg133156094461539795 0
@@ -4382,4 +4386,4 @@
 69C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\.idea\.gitignore133156098005200633 0
 71C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\.idea\BestShop.iml133156098001638370 0
 66C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\.idea\vcs.xml133156098001937555 0
-72C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\.idea\workspace.xml133157532049611558 0
+72C:\Users\FuJitsu\Desktop\Paulina\Coders Lab\BestShop\.idea\workspace.xml133157645530453210 0

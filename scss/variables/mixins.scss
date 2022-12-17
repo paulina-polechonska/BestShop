@@ -5,3 +5,14 @@
   line-height: calc(0.75 * $base-size);
   letter-spacing: 3.28px;
 }
+
+@mixin statistics__icon($color) {
+  background-color: $color;
+
+  &::before {
+    content: "";
+    background-repeat: no-repeat;
+    position: absolute;
+    @content;
+  }
+}
