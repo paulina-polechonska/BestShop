@@ -1,0 +1,17 @@
+$notebook-width: 1352px;
+$notebook-end: $notebook-width;
+
+$mobile-width: 768px;
+$mobile-end: $mobile-width;
+
+@mixin notebook {
+  @media screen and (max-width: $notebook-end) {
+    @content;
+  }
+}
+
+@mixin mobile {
+  @media (max-width: $mobile-end) {
+    @content;
+  }
+}

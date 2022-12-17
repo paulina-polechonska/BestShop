@@ -1,0 +1,98 @@
+header {
+  $header-height: 70px;
+
+  height: $header-height;
+  width: 100%;
+  padding: $base-size 0;
+  background-color: $color-white;
+  box-shadow: 0 3px 6px #00000029;
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+
+    .logo {
+      font-size: calc(1.5 * $base-size);
+      line-height: calc(2 * $base-size);
+      font-family: $font-secondary;
+      font-weight: 300;
+      color: $color-primary;
+    }
+
+
+
+    nav {
+      ul {
+        display: flex;
+        align-items: center;
+        gap: 95px;
+        padding: calc(0.5 * $base-size) 0;
+        @include uppercase__style();
+
+        a {
+          color: $color-grey;
+
+          &:hover {
+            color: $color-black;
+            border-bottom: 4px solid $color-primary;
+            padding-bottom: calc(27px - 4px);
+          }
+        }
+
+        @include mobile {
+          width: 100vh;
+          flex-direction: column;
+          align-items: flex-start;
+          position: absolute;
+          top: calc($header-height + 3px);
+          left: 0;
+          gap: 15px;
+          padding: calc(1.5 * $base-size) $base-size;
+          background-color: $color-white;
+          box-shadow: 0 3px 6px #00000029;
+          z-index: -1;
+          display: none;
+
+          a {
+            &:hover {
+              border-bottom: none;
+              padding-bottom: none;
+            }
+          }
+
+        }
+      }
+
+    }
+  }
+  input#nav-menu-button {
+    display: none;
+
+    @include mobile {
+      display: block;
+      position: absolute;
+      top: 0;
+      right: 0;
+      color: $color-primary;
+      font-size: $base-size;
+      padding: 25px $base-size;
+      border-radius: calc($base-size / 2);
+    }
+
+    &:checked {
+      ~ nav {
+
+        ul {
+          display: flex;
+        }
+      }
+    }
+  }
+}
+
+
+
+
+.banner_title {
+  margin-top: 200px;
+}
